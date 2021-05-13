@@ -1,5 +1,7 @@
 {
-  "contributors": [],
+  "contributors": [
+    "test"
+  ],
   "message": "Contributors must sign the Contributor License Agreement.",
   "label": "cla"
 }
